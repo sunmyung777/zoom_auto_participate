@@ -1,0 +1,62 @@
+{
+    "조례/종례":{
+        "meetingID":5363759347,
+        "password":"dimigo"
+    },
+    "고전":{
+        "meetingID":5377141697,
+        "password":"dimigo"
+    },
+    "확률과통계":{
+        "meetingID":3900553859,
+        "password":"dimigo"
+    },
+    "동아리":{
+    	"meetingID":2630806814,
+        "password":"dimigo"
+    },
+    
+    "응용프로그래밍":{
+        
+        
+        
+        "meetingID":3053522072,
+        "password":"dimigo"
+    },
+    "시프":{
+    	"meetingID":6863031340,
+        "password":"dimigo"
+    },
+    "컴퓨터보안":{
+        "meetingID":3335559622,
+        "password":"dimigo"
+    },
+    "데이터베이스프로그래밍":{
+        "meetingID":5363759347,
+        "password":"dimigo"
+    },
+    "비지니스영어_전":{
+        "meetingID":7385237525,
+        "password":"dimigo"
+    },
+    "비지니스영어_양":{
+        "meetingID":7654919677,
+        "password":"dimigo"
+    },
+    "공업수학":{
+        "meetingID":8792076928,
+        "password":"dimigo"
+    },
+    "진로":{
+        "meetingID":7864104388,
+        "password":"dimigo"
+    },
+    "네트워크프로그래밍":{
+        "meetingID":3865634677,
+        "password":"dimigo"
+    },
+    "공업일반":{
+        "meetingID":9785689787,
+        "password":"dimigo"
+    }
+}
